@@ -1,0 +1,2 @@
+[06-Oct-2018 14:29:31 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 40484864 bytes) in /home/pudelart/public_html/club/assets/header.php on line 12
+[11-Oct-2018 17:38:57 UTC] PHP Fatal error:  Call to undefined method PDO::execute() in /home/pudelart/public_html/club/assets/config.php on line 26
